@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Shared styles */
+
+.open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+}
+
+/* Main styles */
+
+/* Header styles */
+
+header{
+    background-color: #FFF8F3;
+    margin-top: 20px;
+  
+
+}
